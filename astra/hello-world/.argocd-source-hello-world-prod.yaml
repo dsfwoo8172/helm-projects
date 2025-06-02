@@ -4,5 +4,5 @@ helm:
     value: jerry0702/nginx-pub
     forcestring: true
   - name: image.tag
-    value: v0.1.1
+    value: v0.1.10
     forcestring: true
