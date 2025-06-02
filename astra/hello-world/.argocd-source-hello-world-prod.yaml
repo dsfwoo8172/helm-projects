@@ -1,0 +1,8 @@
+helm:
+  parameters:
+  - name: image.repository
+    value: jerry0702/nginx-pub
+    forcestring: true
+  - name: image.tag
+    value: v0.1.1
+    forcestring: true
